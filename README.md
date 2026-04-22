@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Data Analyst
+# 👋 Hi, I'm Venkata Sai Deepika — Data Analyst
 
 > Turning raw data into decisions. Specializing in ML, statistical analysis, and business-focused analytics.
 
